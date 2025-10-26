@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ChillIsCherry",
+        "link": "https://www.youtube.com/@Chill_gd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "FriedAppel",
+        "link": "https://www.youtube.com/channel/UCaSJG7UYMUCKN3jrSmZiqEQ"
     },
     {
         "role": "helper",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ChillIsCherry",
+        "link": "https://www.youtube.com/@Chill_gd"
     }
 ]
